@@ -1,3 +1,8 @@
+3.5.3
+
+    - Include select2 source (not a url to select2 repo) since poetry apparently doesn't know how to download if url only specified
+
+
 3.5.2
 
     - Added support for django4 with v3.5
